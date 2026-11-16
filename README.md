@@ -1,67 +1,42 @@
-# 👋 Hola, soy Mariano Stempler
+# Mariano Stempler
+### Global AI Solutions & Automation Architect | Technical Program Leader | Enterprise Transformation
 
-Soy Project Manager, consultor y **arquitecto** de automatización de negocios y agentes de IA, especializado en cobros, cobranzas y gestión de clientes omnicanal (WhatsApp, email, web y más).
+I am a technology and business leader with 25+ years of experience bridging business strategy, software engineering, technical program management, and digital transformation.
 
----
+As founder of **Krauss & Livic Management**, I focus on designing AI-enabled solutions, orchestrating intelligent automation, and translating complex business challenges into scalable technology initiatives for organizations operating in global markets.
 
-## 🧠 En qué trabajo hoy
+## Core Expertise
 
-- Fundador de **Krauss & Livic Management**  
-- Diseño y orquestación de **agentes de IA** para cobranzas y recuperación de créditos  
-- Automatización de procesos de negocio (onboarding, recordatorios de pago, reporting ejecutivo)  
-- Integraciones entre SaaS, APIs y bases de datos para pymes, fintechs y startups de LATAM  
+- **AI & Agentic Systems:** AI agent orchestration, intelligent workflows, business process automation, and AI-enabled operations.
+- **Enterprise Architecture & Integration:** REST APIs, event-driven systems, relational databases, SaaS integrations, and modern application architectures.
+- **Technical Program & Portfolio Leadership:** Enterprise delivery, cross-functional coordination, governance, and operational performance.
+- **Software Engineering & Cloud-Native Technologies:** Python, TypeScript, Node.js, PostgreSQL, React, Docker, and Kubernetes.
+- **Business Transformation:** End-to-end process optimization, enterprise modernization, digital products, and operational scalability.
 
----
+## Industries & Global Applications
 
-## 🛠️ Stack principal
+My work and solutions address challenges across financial services, fintech, professional services, human resources, e-commerce, real estate, and other technology-driven industries.
 
-**Backend y servicios**
+The architectures and approaches I develop are designed to be applicable across international markets, from emerging businesses to complex enterprise environments.
 
-- TypeScript / Node.js  
-- REST APIs, Webhooks  
-- PostgreSQL y otras bases de datos relacionales  
-- Arquitecturas orientadas a eventos e integración con herramientas no‑code / low‑code
+## Selected Projects
 
-**Frontend**
+- **Nikkita:** Omnichannel AI-enabled collections and customer engagement.
+- **Empleabilidad:** AI-assisted résumé analysis and employability.
+- **Brainpeople:** Recruitment and talent management solutions.
+- **Cucumart:** E-commerce and dropshipping SaaS.
+- **Inarg:** Real estate portfolio management and publishing.
+- **Bettor+:** Sports statistics and analytics SaaS.
+- **Krauss & Livic:** Business process automation and operational solutions.
 
-- React  
-- Tailwind CSS  
-- Vite y ecosistema moderno de build
+*Commercial production repositories are private. Architecture discussions and selected technical demonstrations may be available upon request.*
 
-**AI & Automatización**
+## Professional Focus
 
-- Agentes de IA generales, agentes de IA para colecciones y servicio al cliente  
-- Integraciones con WhatsApp Business API y otras plataformas de mensajería, VoIP, Telegram, etc  
-- (escenarios complejos, orquestación de flujos
+Building the intersection of **Artificial Intelligence, Enterprise Architecture, Software Engineering, and Strategic Execution** to help organizations design, modernize, automate, and scale technology-enabled operations.
 
----
+## Connect
 
-## 🚀 Proyectos relevantes (código privado)
-
-> El código de producción de estos proyectos es privado por motivos de negocio, pero puedo mostrar arquitectura y ejemplos en entrevistas técnicas.
-
-- **Nikkita** – Agente de IA omnicanal para cobranzas y recuperación, integrado con WhatsApp, correo y paneles de gestión. 
-- **Empleabilidad** - Agente de IA de analisis de curriculums para mejorar la empleabilidad, con fines sociales
-- **Bettor+** - Plataforma SaaS de informacion estadistica futbol para la industria de Sport betting
-- **Cucumart** - Plataforma SaaS de dropshipping para la industria e-commerce
-- **Inarg** - Plataforma de gestion de inmobiliria para publicacion y difusion de portafolios
-- **Brainpeople** - Plataforma de busqueda y seleccion de personal Argentina
-- **Krauss & Livic Management** – Plataforma de automatización de procesos de negocio para empresas de servicios y financieras.  
-- Otros proyectos de backoffice, dashboards de colecciones y portales de clientes para empresas de Argentina y LATAM.
-
----
-
-## 📈 Qué puedo aportar a tu empresa
-
-- Diseño e implementación de soluciones de automatización extremo a extremo.  
-- Traducción de necesidades de negocio en arquitectura técnica clara.  
-- Experiencia combinando ingenieria de software con herramientas low-code/no‑code con código a medida (TypeScript/Node.js + React) para ir de MVP a producción rápidamente.
-
----
-
-## 📬 Cómo contactarme
-
-- LinkedIn: https://www.linkedin.com/in/marianostempler  
-- Web: https://krausslivic.com
-
-
+- [LinkedIn](https://www.linkedin.com/in/marianostempler)
+- [Krauss & Livic Management](https://krausslivic.com)
+- [GitHub](https://github.com/mstempler)
